@@ -1,1 +1,1 @@
-# coursera_test
+# coursera_applied_datascience
